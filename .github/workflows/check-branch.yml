@@ -6,7 +6,7 @@ on:
       - '**'
 
 jobs:
-  run-tests:
+  ci:
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
